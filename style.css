@@ -37,7 +37,6 @@ a{
 body{
     background-image: url(bg.jpg);
     background-size: cover;
-    background-repeat: no-repeat;
 }
 .para h2{
     display: flex;
